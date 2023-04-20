@@ -1,38 +1,5 @@
-# Todo list app
-<br>
+# TO-DO LIST APPLICATION WITH NODEJS,EXPRESSJS & MongoDB
+[You can visit to the live demo of the website from the given link ] :- ()
 
-## cloning project
-
-```
-git clone https://github.com/aphrodeosubarno/node-js-todo-app.git
-```
-
-## install dependencies
-
-```
-yarn install
-```
-
-<p>or</p>
-
-```
-npm install
-```
-
-## run server
-
-```
-yarn run dev
-```
-
-<p>or</p>
-
-```
-npm run dev
-```
-
-## open this server at your browser
-
-```
-http://localhost:3000
-```
+Here you can take a brief look of website and its operations:-
+![screen-capture (7)](https://user-images.githubusercontent.com/88509277/233337148-58e8baf1-7c70-4954-8f30-98d55d7be835.gif)
